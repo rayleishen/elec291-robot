@@ -9,8 +9,8 @@ To gain valuable insights and proficiency in various aspects of C design, embedd
 ## Table of Contents
 
 1. [Installation](#installation)
-2. [Hardware](#Hardware)
-3. [Usage](#Usage)
+2. [Hardware](#hardware)
+3. [Usage](#usage)
 
 ## Installation
 
